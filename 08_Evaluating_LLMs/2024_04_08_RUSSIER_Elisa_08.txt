@@ -1,0 +1,6 @@
+A good case of use of LLM for science could be to summarize scientific papers for scientists to gain more time. Indeed, these days scientific groups often have Journal Club sessions, which take significant time to prepare. 
+The benefit of having this LLM solution would be to accelerate the process of reading a paper and understand it without diving too much into reading it.
+LLM can be trained to generate abstracts for scientific papers based on the content of the full paper. 
+However, the LLM will need significant papers to read to know the details of each field. Also, it would need to be able to read plots. 
+
+To evaluate the performance of such a LLM for scientific litterature generation, we would need evaluation by domain experts and personal feedback. Also we would need to quantify the overlap between the generated summary and the paper summary. 
